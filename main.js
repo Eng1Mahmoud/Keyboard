@@ -18,16 +18,3 @@ for (e of buttom) {
     }
    
 
-/* buttom.forEach((e) =>{
-    
-    //console.log(e.textContent.trim());
-    e.onClick = () =>{
-        console.log("hgc b");
-        text.value = e.textContent;
-        console.log(e.textContent.trim());
-        if(e.textContent.length != 1){
-            text.textContent += " ";
-        }
-    };
-})
- */
